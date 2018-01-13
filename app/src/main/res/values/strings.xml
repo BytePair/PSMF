@@ -5,6 +5,8 @@
     <!-- Navigation -->
     <string name="navigation_header_logo_alt_text">PSMF</string>
     <string name="navigation_header_logo">Navigation Header Logo</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 
     <!-- Home Page -->
     <string name="welcome_message_0">This app provides a brief overview of the Protein Sparing
@@ -18,8 +20,8 @@
         current stats. As always, before starting any new diet, please first consult with your
         primary health care physician.</string>
 
-
-
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
     <!-- Diet Overview -->
