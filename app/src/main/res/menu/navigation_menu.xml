@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/introduction" android:title="Introduction" android:icon="@drawable/ic_home_black_24px"/>
+        <item android:id="@+id/questions" android:title="Questions" android:icon="@drawable/ic_help_outline_black_24px"/>
+        <item android:id="@+id/supplements" android:title="Supplements" android:icon="@drawable/ic_local_pharmacy_black_24px"/>
+        <item android:id="@+id/calculator" android:title="Calculator" android:icon="@drawable/ic_poll_black_24px"/>
+        <item android:id="@+id/shop" android:title="Shop" android:icon="@drawable/ic_local_grocery_store_black_24px"/>
+    </group>
+</menu>

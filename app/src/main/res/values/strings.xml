@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PSMF</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation -->
+    <string name="navigation_header_logo_alt_text">PSMF</string>
+    <string name="navigation_header_logo">Navigation Header Logo</string>
+
+    <!-- Home Page -->
+    <string name="welcome_message_0">This app provides a brief overview of the Protein Sparing
+        Modified Fast (PSMF) diet and a calculator for you to determine your protein goal.  </string>
+    <string name="welcome_message_1">The idea behind a PSMF is to eat as few calories as possible
+        while consuming enough protein to preserve lean body mass and getting enough micronutrients
+        from supplementation to avoid any deficiencies. This means your calories will be almost exclusively from lean
+        protein sources with very few calories coming from carbs or fats. </string>
+    <string name="welcome_message_2">In the end this is still a \'crash\' diet and the amount of time
+        you stay on it should be limited. The calculator will give recommendations based on your
+        current stats. As always, before starting any new diet, please first consult with your
+        primary health care physician.</string>
+
+
+
+
+
+    <!-- Diet Overview -->
+
+
+    <!-- Supplements -->
+
+
+    <!-- Exercise -->
+
+
+    <!-- Calculator -->
+
+
+    <!-- Shop -->
+
+
+</resources>

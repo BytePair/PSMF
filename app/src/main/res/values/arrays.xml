@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_tabs">
+        <item>Introduction</item>
+        <item>Questions</item>
+        <item>Supplements</item>
+        <item>Calculator</item>
+        <item>Shop</item>
+    </string-array>
+</resources>
